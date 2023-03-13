@@ -1,0 +1,15 @@
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\bin\Debug\net6.0\Exe2B.exe
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\bin\Debug\net6.0\Exe2B.deps.json
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\bin\Debug\net6.0\Exe2B.runtimeconfig.json
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\bin\Debug\net6.0\Exe2B.dll
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\bin\Debug\net6.0\Exe2B.pdb
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.csproj.AssemblyReference.cache
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.AssemblyInfoInputs.cache
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.AssemblyInfo.cs
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.csproj.CoreCompileInputs.cache
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.dll
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\refint\Exe2B.dll
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.pdb
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\Exe2B.genruntimeconfig.cache
+C:\Users\OtavioArruda\source\repos\Exe2B\Exe2B\obj\Debug\net6.0\ref\Exe2B.dll
